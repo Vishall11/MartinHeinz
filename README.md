@@ -73,6 +73,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
 
 <h1 align="center">
+
   [![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![Github][3.2]][3]
   <!-- Icons -->
   [1.2]: https://imgur.com/ylB0fj1 (Twitter)
@@ -82,5 +83,6 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
   [1]: https://twitter.com/Martin_Heinz_
   [2]: https://www.linkedin.com/in/heinz-martin/
   [3]: https://github.com/MartinHeinz
+
 </h1>
 
